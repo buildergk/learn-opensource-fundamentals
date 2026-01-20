@@ -9,7 +9,7 @@
 ---
 
 ## ✨ About
-This is a beginner-friendly open-source project designed to help developers make their **first contribution to opensource** with confidence. If you’ve ever felt lost on where or how to start contributing — this is your **safe and supportive space** to learn, explore, and collaborate.  
+This is a beginner-friendly open-source project designed to help developers make their **first contribution to opensource** with confidence. If you’ve ever felt lost on where or how to start contributing - this is your **safe and supportive space** to learn, explore, and collaborate.  
 
 🧙‍♂️ *Think of it as your open-source spellbook - where every pull request is a new incantation of learning.*
 
